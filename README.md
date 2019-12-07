@@ -1,0 +1,2 @@
+# QSSHub
+Collected QSS styles
